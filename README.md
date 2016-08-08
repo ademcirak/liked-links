@@ -14,3 +14,4 @@
 - [Documentation - Materialize](http://materializecss.com/) 
 - [Examples - Select2](https://select2.github.io/examples.html#tags) 
 - [Dropzone.js](http://www.dropzonejs.com/) 
+- [ecomfe/echarts: A powerful, interactive charting and visualization library for browser](https://github.com/ecomfe/echarts) 
