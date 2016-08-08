@@ -11,3 +11,4 @@
 - [tdebatty/java-string-similarity: Implementation of various string similarity and distance algorithms: Levenshtein, Jaro-winkler, n-Gram, Q-Gram, Jaccard index, Longest Common Subsequence edit distance, cosine similarity ...](https://github.com/tdebatty/java-string-similarity) 
 - [Slyce-Inc/SlyceMessaging: A messaging library for Android](https://github.com/Slyce-Inc/SlyceMessaging) 
 - [spring-projects/spring-boot: Spring Boot](https://github.com/spring-projects/spring-boot) 
+- [Documentation - Materialize](http://materializecss.com/) 
