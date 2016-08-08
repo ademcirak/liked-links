@@ -12,3 +12,4 @@
 - [Slyce-Inc/SlyceMessaging: A messaging library for Android](https://github.com/Slyce-Inc/SlyceMessaging) 
 - [spring-projects/spring-boot: Spring Boot](https://github.com/spring-projects/spring-boot) 
 - [Documentation - Materialize](http://materializecss.com/) 
+- [Examples - Select2](https://select2.github.io/examples.html#tags) 
