@@ -15,3 +15,6 @@
 - [Examples - Select2](https://select2.github.io/examples.html#tags) 
 - [Dropzone.js](http://www.dropzonejs.com/) 
 - [ecomfe/echarts: A powerful, interactive charting and visualization library for browser](https://github.com/ecomfe/echarts) 
+
+### August 9, 2016
+- [ampproject/amphtml: AMP HTML source code, samples, and documentation. See below for more info.](https://github.com/ampproject/amphtml) 
