@@ -19,3 +19,6 @@
 ### August 9, 2016
 - [ampproject/amphtml: AMP HTML source code, samples, and documentation. See below for more info.](https://github.com/ampproject/amphtml) 
 - [GetUniversities](chrome-extension://oebpmncolmhiapingjaagmapififiakb/editor.html#wsdl=http%3A%2F%2Frotadev%2FIntertech.WorkFlow.WebServices%2FWFStarter.asmx%3FWSDL&addr=%23%2FWFStarter%2FWFStarterSoap%2FGetUniversities&title=GetUniversities) 
+
+### August 10, 2016
+- [Bookshelf.js](http://bookshelfjs.org/#introduction) 
