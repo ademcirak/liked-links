@@ -26,3 +26,4 @@
 - [Explore our gorgeous mobile-friendly themes for WordPress](http://www.wptouch.com/themes/) 
 - [Ayın Tarihi](http://www.ayintarihi.com/) 
 - [KeystoneJS · Node.js cms and web application platform built on Express and MongoDB](http://keystonejs.com/) 
+- [Add an Admin Panel To A NodeJs Project - AlgoTech Solutions](https://www.algotech.solutions/blog/nodejs/add-an-admin-panel-to-a-nodejs-project/) 
