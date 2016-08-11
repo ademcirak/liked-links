@@ -35,3 +35,4 @@
 - [afaqurk/linux-dash: A beautiful web dashboard for Linux](https://github.com/afaqurk/linux-dash) 
 - [Hide your header on scroll - Headroom.js](http://wicky.nillia.ms/headroom.js/) 
 - [sindresorhus/awesome-nodejs: Delightful Node.js packages and resources](https://github.com/sindresorhus/awesome-nodejs#mad-science) 
+- [PhilWaldmann/openrecord: Active record like ORM for nodejs](https://github.com/PhilWaldmann/openrecord) 
