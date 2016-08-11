@@ -34,3 +34,4 @@
 - [Plyr - A simple HTML5 media player](https://plyr.io/#youtube) 
 - [afaqurk/linux-dash: A beautiful web dashboard for Linux](https://github.com/afaqurk/linux-dash) 
 - [Hide your header on scroll - Headroom.js](http://wicky.nillia.ms/headroom.js/) 
+- [sindresorhus/awesome-nodejs: Delightful Node.js packages and resources](https://github.com/sindresorhus/awesome-nodejs#mad-science) 
