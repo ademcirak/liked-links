@@ -33,3 +33,4 @@
 - [loadfive/Knwl.js: Find Dates, Places, Times, and More. A .js library for parsing text for specific information.](https://github.com/loadfive/Knwl.js) 
 - [Plyr - A simple HTML5 media player](https://plyr.io/#youtube) 
 - [afaqurk/linux-dash: A beautiful web dashboard for Linux](https://github.com/afaqurk/linux-dash) 
+- [Hide your header on scroll - Headroom.js](http://wicky.nillia.ms/headroom.js/) 
