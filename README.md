@@ -30,3 +30,4 @@
 
 ### August 11, 2016
 - [feross/webtorrent: Streaming torrent client for the web](https://github.com/feross/webtorrent) 
+- [loadfive/Knwl.js: Find Dates, Places, Times, and More. A .js library for parsing text for specific information.](https://github.com/loadfive/Knwl.js) 
