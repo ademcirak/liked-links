@@ -37,3 +37,6 @@
 - [sindresorhus/awesome-nodejs: Delightful Node.js packages and resources](https://github.com/sindresorhus/awesome-nodejs#mad-science) 
 - [PhilWaldmann/openrecord: Active record like ORM for nodejs](https://github.com/PhilWaldmann/openrecord) 
 - [Marak/faker.js: generate massive amounts of fake data in Node.js and the browser](https://github.com/Marak/Faker.js) 
+
+### August 12, 2016
+- [smaxwellstewart/hapi-dash: Boilerplate Hapi Web and API Server Example, with frontend dashboard.](https://github.com/smaxwellstewart/hapi-dash) 
