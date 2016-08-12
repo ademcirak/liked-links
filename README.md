@@ -43,3 +43,4 @@
 - [glennjones/hapi-swagger: A Swagger interface for HAPI](https://github.com/glennjones/hapi-swagger) 
 - [bsiddiqui/hapi-router: auto route loading for hapi](https://github.com/bsiddiqui/hapi-router) 
 - [glennjones/hapi-swagger: A Swagger interface for HAPI](https://github.com/glennjones/hapi-swagger) 
+- [Aqua - A website and user system starter](http://jedireza.github.io/aqua/) 
