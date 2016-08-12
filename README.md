@@ -40,3 +40,4 @@
 
 ### August 12, 2016
 - [smaxwellstewart/hapi-dash: Boilerplate Hapi Web and API Server Example, with frontend dashboard.](https://github.com/smaxwellstewart/hapi-dash) 
+- [glennjones/hapi-swagger: A Swagger interface for HAPI](https://github.com/glennjones/hapi-swagger) 
