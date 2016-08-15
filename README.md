@@ -49,3 +49,4 @@
 
 ### August 15, 2016
 - [SleepingOwlAdmin/demo: This is demo application for SleepingOwl Admin.](https://github.com/SleepingOwlAdmin/demo) 
+- [bastimeyer/livestreamer-twitch-gui: A multi platform Twitch.tv browser for Livestreamer](https://github.com/bastimeyer/livestreamer-twitch-gui) 
