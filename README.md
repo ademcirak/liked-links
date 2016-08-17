@@ -52,3 +52,6 @@
 - [bastimeyer/livestreamer-twitch-gui: A multi platform Twitch.tv browser for Livestreamer](https://github.com/bastimeyer/livestreamer-twitch-gui) 
 - [wUFr/flexi-admin: Admincenter template / ui kit for standalone use. Fully responsive](https://github.com/wUFr/flexi-admin) 
 - [Bookshelf.js: A Node.js ORM](http://stackabuse.com/bookshelf-js-a-node-js-orm/) 
+
+### August 17, 2016
+- [dinuscxj/RecyclerRefreshLayout: A pull to refresh layout for android, the RecyclerRefreshLayout is based on the SwipeRefreshLayout. support all the views, highly customizable, code simplicity, etc](https://github.com/dinuscxj/RecyclerRefreshLayout) 
