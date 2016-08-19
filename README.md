@@ -64,3 +64,4 @@
 ### August 19, 2016
 - [poeticninja/hapi-named-routes: Add named routes to your view templates](https://github.com/poeticninja/hapi-named-routes) 
 - [cray0000/type4fame: Online multiplayer typing game. Built with DerbyJS.](https://github.com/cray0000/type4fame) 
+- [This is what a GOOD resume should look like | CareerCup](https://www.careercup.com/resume) 
