@@ -60,3 +60,6 @@
 ### August 18, 2016
 - [Web Yazılım Hizmeti | Bionluk](https://bionluk.com/liste/web-yazilim) 
 - [RafalWilinski/express-status-monitor: 🚀 Realtime Monitoring solution for Express.js apps, inspired by status.github.com](https://github.com/RafalWilinski/express-status-monitor) 
+
+### August 19, 2016
+- [poeticninja/hapi-named-routes: Add named routes to your view templates](https://github.com/poeticninja/hapi-named-routes) 
