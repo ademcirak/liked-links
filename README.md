@@ -68,3 +68,4 @@
 
 ### August 22, 2016
 - [Mattermost](https://www.mattermost.org/) 
+- [Introducing the New WordPress.com](https://developer.wordpress.com/calypso/) 
