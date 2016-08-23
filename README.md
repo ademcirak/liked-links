@@ -70,3 +70,6 @@
 - [Mattermost](https://www.mattermost.org/) 
 - [Introducing the New WordPress.com](https://developer.wordpress.com/calypso/) 
 - [wooorm/alex: Catch insensitive, inconsiderate writing](https://github.com/wooorm/alex) 
+
+### August 23, 2016
+- [Kickball/awesome-selfhosted: This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.](https://github.com/Kickball/awesome-selfhosted#analytics) 
