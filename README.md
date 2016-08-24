@@ -73,3 +73,6 @@
 
 ### August 23, 2016
 - [Kickball/awesome-selfhosted: This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.](https://github.com/Kickball/awesome-selfhosted#analytics) 
+
+### August 24, 2016
+- [facundoolano/google-play-scraper: Node.js scraper to get data from Google Play](https://github.com/facundoolano/google-play-scraper) 
