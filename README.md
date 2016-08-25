@@ -81,3 +81,4 @@
 ### August 25, 2016
 - [JGAntunes/hapi-uploader: Hapi plugin allowing easy and configurable file uploads](https://github.com/JGAntunes/hapi-uploader) 
 - [ubaltaci/hapi-basic-i18n: hapi-basic-i18n](https://github.com/ubaltaci/hapi-basic-i18n) 
+- [idoshamun/hapi-alive: Health route for your hapi.js server](https://github.com/idoshamun/hapi-alive) 
