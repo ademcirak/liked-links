@@ -77,3 +77,6 @@
 ### August 24, 2016
 - [facundoolano/google-play-scraper: Node.js scraper to get data from Google Play](https://github.com/facundoolano/google-play-scraper) 
 - [onurakpolat/awesome-analytics: A curated list of analytics frameworks, software and other tools.](https://github.com/onurakpolat/awesome-analytics#Social-media-analytics) 
+
+### August 25, 2016
+- [JGAntunes/hapi-uploader: Hapi plugin allowing easy and configurable file uploads](https://github.com/JGAntunes/hapi-uploader) 
