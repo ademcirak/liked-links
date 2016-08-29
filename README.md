@@ -86,3 +86,6 @@
 ### August 26, 2016
 - [hapi-error-logger/index.js at master · blogfoster/hapi-error-logger](https://github.com/blogfoster/hapi-error-logger/blob/master/source/index.js) 
 - [voltrue2/in-app-purchase: A Node.js module for in-App-Purchase for iOS, Android, Amazon and Windows.](https://github.com/voltrue2/in-app-purchase) 
+
+### August 29, 2016
+- [sibartlett/hapi-io: Awesome socket.io plugin for hapi](https://github.com/sibartlett/hapi-io) 
