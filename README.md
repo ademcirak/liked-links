@@ -89,3 +89,6 @@
 
 ### August 29, 2016
 - [sibartlett/hapi-io: Awesome socket.io plugin for hapi](https://github.com/sibartlett/hapi-io) 
+
+### September 2, 2016
+- [VctrySam/whatsapp: WhatsApp in React Native](https://github.com/VctrySam/whatsapp) 
