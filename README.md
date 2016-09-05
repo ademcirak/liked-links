@@ -92,3 +92,6 @@
 
 ### September 2, 2016
 - [VctrySam/whatsapp: WhatsApp in React Native](https://github.com/VctrySam/whatsapp) 
+
+### September 5, 2016
+- [ziahamza/webui-aria2: The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.](https://github.com/ziahamza/webui-aria2) 
