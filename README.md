@@ -101,3 +101,4 @@
 - [Open data](https://github.com/showcases/open-data) 
 - [Yelp/android-school: The best videos from the Android community and beyond](https://github.com/Yelp/android-school) 
 - [pengwynn/flint: Check your project for common sources of contributor friction.](https://github.com/pengwynn/flint) 
+- [shekhargulati/52-technologies-in-2016: Let's learn a new technology every week. A new technology blog every Sunday in 2016.](https://github.com/shekhargulati/52-technologies-in-2016) 
