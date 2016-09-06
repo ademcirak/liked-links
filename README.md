@@ -103,3 +103,4 @@
 - [pengwynn/flint: Check your project for common sources of contributor friction.](https://github.com/pengwynn/flint) 
 - [shekhargulati/52-technologies-in-2016: Let's learn a new technology every week. A new technology blog every Sunday in 2016.](https://github.com/shekhargulati/52-technologies-in-2016) 
 - [codelucas/newspaper: News, full-text, and article metadata extraction in Python 3](https://github.com/codelucas/newspaper) 
+- [52-technologies-in-2016/11-tweet-deduplication at master · shekhargulati/52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/11-tweet-deduplication) 
