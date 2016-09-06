@@ -95,3 +95,6 @@
 
 ### September 5, 2016
 - [ziahamza/webui-aria2: The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.](https://github.com/ziahamza/webui-aria2) 
+
+### September 6, 2016
+- [tota11y – an accessibility visualization toolkit](http://khan.github.io/tota11y/) 
