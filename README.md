@@ -106,3 +106,6 @@
 - [52-technologies-in-2016/11-tweet-deduplication at master · shekhargulati/52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/11-tweet-deduplication) 
 - [52-technologies-in-2016/30-dropwizard at master · shekhargulati/52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/30-dropwizard) 
 - [camwiegert/in-view: Get notified when a DOM element enters or exits the viewport.](https://github.com/camwiegert/in-view) 
+
+### September 8, 2016
+- [Javascipt/node-youtube: Youtube to snapshots and GIFs.](https://github.com/Javascipt/node-youtube) 
