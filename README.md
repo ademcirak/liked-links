@@ -109,3 +109,4 @@
 
 ### September 8, 2016
 - [Javascipt/node-youtube: Youtube to snapshots and GIFs.](https://github.com/Javascipt/node-youtube) 
+- [arjunmehta/node-geo-proximity: Super fast proximity searches of geo coordinates.](https://github.com/arjunmehta/node-geo-proximity) 
