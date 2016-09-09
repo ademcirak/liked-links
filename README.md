@@ -110,3 +110,6 @@
 ### September 8, 2016
 - [Javascipt/node-youtube: Youtube to snapshots and GIFs.](https://github.com/Javascipt/node-youtube) 
 - [arjunmehta/node-geo-proximity: Super fast proximity searches of geo coordinates.](https://github.com/arjunmehta/node-geo-proximity) 
+
+### September 9, 2016
+- [bartonhammond/snowflake: A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router, & Jest with either Parse.com or Hapi server locally or on OpenShift for the backend](https://github.com/bartonhammond/snowflake) 
