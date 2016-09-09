@@ -113,3 +113,4 @@
 
 ### September 9, 2016
 - [bartonhammond/snowflake: A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router, & Jest with either Parse.com or Hapi server locally or on OpenShift for the backend](https://github.com/bartonhammond/snowflake) 
+- [ziyasal/hapijs-status-monitor: 🚀 (4fun) Realtime Monitoring solution for Hapi.js apps, inspired by express-status-monitor](https://github.com/ziyasal/hapijs-status-monitor) 
