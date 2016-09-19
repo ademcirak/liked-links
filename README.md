@@ -116,3 +116,6 @@
 - [ziyasal/hapijs-status-monitor: 🚀 (4fun) Realtime Monitoring solution for Hapi.js apps, inspired by express-status-monitor](https://github.com/ziyasal/hapijs-status-monitor) 
 - [Keycloak](http://www.keycloak.org/index.html) 
 - [heron2014/Bubbles: Chat application using Redis , Socket.io , Hapi](https://github.com/heron2014/Bubbles) 
+
+### September 19, 2016
+- [dabit3/react-native-hackathon-starter: React Native Hackathon Starter Project](https://github.com/dabit3/react-native-hackathon-starter) 
