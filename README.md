@@ -123,3 +123,4 @@
 ### September 20, 2016
 - [pa11y/dashboard: Pa11y Dashboard is a web interface which helps you monitor the accessibility of your websites](https://github.com/pa11y/dashboard) 
 - [9 Security Tips to Keep Express from Getting Pwned](https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/?utm_source=nodeweekly&utm_medium=email) 
+- [How Developers use Node.js - Survey Results | @RisingStack](https://blog.risingstack.com/node-js-developer-survey-results-2016/?utm_source=nodeweekly&utm_medium=email) 
