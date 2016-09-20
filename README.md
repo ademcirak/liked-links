@@ -119,3 +119,6 @@
 
 ### September 19, 2016
 - [dabit3/react-native-hackathon-starter: React Native Hackathon Starter Project](https://github.com/dabit3/react-native-hackathon-starter) 
+
+### September 20, 2016
+- [pa11y/dashboard: Pa11y Dashboard is a web interface which helps you monitor the accessibility of your websites](https://github.com/pa11y/dashboard) 
