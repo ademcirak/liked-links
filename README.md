@@ -125,3 +125,4 @@
 - [9 Security Tips to Keep Express from Getting Pwned](https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/?utm_source=nodeweekly&utm_medium=email) 
 - [How Developers use Node.js - Survey Results | @RisingStack](https://blog.risingstack.com/node-js-developer-survey-results-2016/?utm_source=nodeweekly&utm_medium=email) 
 - [So You Want to be a Functional Programmer (Part 1) – Medium](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.jqg4bo987) 
+- [Android Development: some of the best practices. Jun 2016 edition. – Medium](https://medium.com/@stepango/android-development-some-of-the-best-practices-jun-2016-edition-e505a0558a71#.4qqqo15wy) 
