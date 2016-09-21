@@ -133,3 +133,4 @@
 - [Work with ClusterManager – Medium](https://medium.com/@tonyshkurenko/work-with-clustermanager-bdf3d70fb0fd#.utnted99m) 
 - [Must Have Libraries · codepath/android_guides Wiki](https://github.com/codepath/android_guides/wiki/Must-Have-Libraries) 
 - [radzio/android-data-binding-command](https://github.com/radzio/android-data-binding-command) 
+- [sephiroth74/Material-BottomNavigation: Bottom Navigation widget component inspired by the Google Material Design Guidelines at https://www.google.com/design/spec/components/bottom-navigation.html](https://github.com/sephiroth74/Material-BottomNavigation) 
