@@ -130,3 +130,4 @@
 ### September 21, 2016
 - [Make your build.gradle great again – Medium](https://medium.com/@sergii/make-your-build-gradle-great-again-c84cc172a654#.j56kiyetv) 
 - [Level-up with Android Studio Shortcuts and Live Templates](http://blog.stablekernel.com/level-up-with-android-studio-shortcuts-and-live-templates/) 
+- [Work with ClusterManager – Medium](https://medium.com/@tonyshkurenko/work-with-clustermanager-bdf3d70fb0fd#.utnted99m) 
