@@ -134,3 +134,6 @@
 - [Must Have Libraries · codepath/android_guides Wiki](https://github.com/codepath/android_guides/wiki/Must-Have-Libraries) 
 - [radzio/android-data-binding-command](https://github.com/radzio/android-data-binding-command) 
 - [sephiroth74/Material-BottomNavigation: Bottom Navigation widget component inspired by the Google Material Design Guidelines at https://www.google.com/design/spec/components/bottom-navigation.html](https://github.com/sephiroth74/Material-BottomNavigation) 
+
+### September 26, 2016
+- [hungtraan/FacebookBot: A Facebook Messenger Bot that supports Voice Recognition, Natural Language Processing and features such as: search nearby restaurants, search trending news, transcribe and save memos to the cloud.](https://github.com/hungtraan/FacebookBot#3-memo) 
