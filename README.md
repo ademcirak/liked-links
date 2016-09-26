@@ -137,3 +137,4 @@
 
 ### September 26, 2016
 - [hungtraan/FacebookBot: A Facebook Messenger Bot that supports Voice Recognition, Natural Language Processing and features such as: search nearby restaurants, search trending news, transcribe and save memos to the cloud.](https://github.com/hungtraan/FacebookBot#3-memo) 
+- [TensorFlow -- Vector Representations of Words](https://www.tensorflow.org/versions/r0.10/tutorials/word2vec/index.html#vector-representations-of-words) 
