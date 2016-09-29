@@ -141,3 +141,4 @@
 
 ### September 29, 2016
 - [holidaycheck/Permissify: Simplifying Android Permissions](https://github.com/holidaycheck/Permissify) 
+- [dabit3/seo-portal: Angularjs, GA Superproxy, Firebase SEO Dashboard for monitoring analytic information](https://github.com/dabit3/seo-portal) 
