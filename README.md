@@ -149,3 +149,4 @@
 ### October 12, 2016
 - [grundid/drinker-app: Die offene Getränkekarte](https://github.com/grundid/drinker-app) 
 - [jwagner/smartcrop.js: Content aware image cropping](https://github.com/jwagner/smartcrop.js) 
+- [CatThink: see the cats of Instagram in realtime with RethinkDB and Socket.io - RethinkDB](https://rethinkdb.com/blog/cats-of-instagram/) 
