@@ -145,3 +145,6 @@
 
 ### October 11, 2016
 - [AtlasBoard - Wallboards and Dashboards for everyone](http://atlasboard.bitbucket.org/) 
+
+### October 12, 2016
+- [grundid/drinker-app: Die offene Getränkekarte](https://github.com/grundid/drinker-app) 
