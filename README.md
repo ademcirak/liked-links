@@ -150,3 +150,6 @@
 - [grundid/drinker-app: Die offene Getränkekarte](https://github.com/grundid/drinker-app) 
 - [jwagner/smartcrop.js: Content aware image cropping](https://github.com/jwagner/smartcrop.js) 
 - [CatThink: see the cats of Instagram in realtime with RethinkDB and Socket.io - RethinkDB](https://rethinkdb.com/blog/cats-of-instagram/) 
+
+### October 13, 2016
+- [python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.](https://github.com/python-diamond/Diamond) 
